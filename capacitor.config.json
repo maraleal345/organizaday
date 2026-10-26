@@ -1,0 +1,18 @@
+{
+  "appId": "com.agenda.remessas",
+  "appName": "Organizador Diário",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#f6f7f9"
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#1d4ed8",
+      "overlaysWebView": false
+    }
+  }
+}
